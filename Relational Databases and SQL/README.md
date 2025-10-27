@@ -3,6 +3,7 @@
 
 This workbook showcases my progress and applied learning during the Data Technician training program.
 
+![](SQL1.png)
 
 # 📘 Data Technician Workbook – Week 3 (WIP)
 
