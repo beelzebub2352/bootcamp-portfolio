@@ -5,52 +5,53 @@ This workbook showcases my progress and applied learning during the Data Technic
 
 
 # 📘 Data Technician Workbook – Week 3 (WIP)
+
 ### 🎯 Purpose of the Document
-This workbook was created as part of my **Data Technician training program – Week 3**, focusing on **relational databases, data modeling, and SQL querying**.  
-It demonstrates my understanding of database design principles, table relationships, and query writing through practical exercises using **MySQL**.
-This week’s work emphasizes **data structuring, normalization, and query-based analysis**, laying the foundation for effective database management and reporting.
+This workbook is a **Work In Progress (WIP)** created as part of my **Data Technician training program – Week 3**, focusing on **relational databases, SQL fundamentals, and data modeling**.  
+It demonstrates my ongoing development in designing and managing databases using **MySQL** and **Microsoft Access**, while applying real-world business scenarios to structure and query relational data effectively.  
+This week’s work expands on earlier data analysis skills by introducing the principles of **database architecture, normalization, and query optimization**.
 
 ---
 
 ## 🧠 Key Skills
-- **Database Design & Architecture** – Planning and structuring relational databases to store and organize data efficiently.  
-- **Data Modeling** – Identifying relationships between entities and applying normalization techniques to avoid redundancy.  
-- **Analytical Thinking** – Translating business requirements into data structures and logical workflows.  
-- **Data Integrity & Security** – Understanding constraints, keys, and relationships to maintain consistent and secure data.  
-- **Query Optimization** – Using efficient SQL queries to retrieve, analyze, and manipulate data.  
-- **Problem Solving** – Applying SQL logic to real-world business scenarios, such as retail inventory and sales management.  
-- **Collaboration** – Engaging in group-based problem solving to design and implement working database solutions.  
+- **Database Design & Planning** – Developing logical and physical models for storing structured data.  
+- **Relational Thinking** – Understanding and applying one-to-one, one-to-many, and many-to-many relationships.  
+- **Data Modeling** – Translating business operations into normalized database schemas.  
+- **Data Integrity & Accuracy** – Implementing keys and constraints to maintain consistent and valid records.  
+- **Problem Solving** – Using SQL to address real-world use cases like retail inventory, sales, and customer data management.  
+- **Analytical Querying** – Writing queries to analyze, filter, and aggregate meaningful insights from data.  
+- **Collaboration & Reflection** – Working with peers on SQL practical tasks and refining database concepts through shared learning.  
 
 ---
 
 ## 💻 Technical Skills
-- **Relational Database Concepts** – Understanding primary keys, foreign keys, one-to-one, one-to-many, and many-to-many relationships.  
-- **SQL Querying** – Writing commands including `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and `CREATE TABLE`.  
-- **Joins & Relationships** – Using `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, and `SELF JOIN` to combine data.  
-- **Schema Design** – Creating normalized database schemas with clear entity relationships.  
-- **Star Schema Modeling** – Structuring data around fact and dimension tables for analytical queries.  
-- **Constraints & Keys** – Applying primary key, foreign key, and unique constraints for data consistency.  
-- **Data Definition Language (DDL)** – Designing databases using commands like `CREATE DATABASE` and `ALTER TABLE`.  
-- **Data Manipulation Language (DML)** – Managing records using `INSERT INTO`, `UPDATE`, and `DELETE`.  
-- **Aggregation & Filtering** – Using `COUNT()`, `AVG()`, `SUM()`, and `WHERE` clauses for reporting and analysis.  
-- **Query Scenarios** – Executing practical exercises for demographic, geographic, and population-based queries using the `world_db` dataset.  
-- **Backup & Maintenance** – Understanding database maintenance, backups, and role-based access control for security.  
+- **Relational Database Concepts** – Applying **primary keys**, **foreign keys**, and relational dependencies.  
+- **SQL Query Writing** – Practicing `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and `CREATE TABLE` commands.  
+- **JOIN Operations** – Using `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, `CROSS JOIN`, and `SELF JOIN`.  
+- **Schema Design** – Defining tables, fields, and data types to reflect real-world entities and relationships.  
+- **Normalization** – Reducing redundancy and improving data efficiency through structured table relationships.  
+- **Aggregation & Filtering** – Using `COUNT()`, `AVG()`, `SUM()`, `WHERE`, and `GROUP BY` for data summaries.  
+- **Star Schema Implementation** – Using fact and dimension tables for simplified analytical querying.  
+- **Data Definition Language (DDL)** – Creating and modifying database structures.  
+- **Data Manipulation Language (DML)** – Managing and maintaining data integrity through updates and inserts.  
+- **Scenario-Based SQL Queries** – Solving tasks using the `world_db` dataset (e.g., demographic analysis, population queries).  
+- **Backup & Access Control** – Understanding data security, user roles, and database maintenance essentials.  
 
 ---
 
 ### 📂 File Overview
-- `Data_Technician_Workbook_Week_3.docx` – Workbook containing theoretical and practical SQL tasks, including database design, schema implementation, and query-based exercises.
+- `Data_Technician_Workbook_Week_3.docx` – **(Work In Progress)** Workbook covering relational database theory, schema design, and SQL practical exercises.
 
 ---
 
 ### 🧾 Summary
-This project demonstrates my ability to **design, implement, and query relational databases** using SQL.  
-It highlights my understanding of **data normalization, table relationships, and database logic**, alongside practical exercises that apply these concepts to real-world datasets.  
-By mastering relational models and SQL, I’ve strengthened my ability to handle structured data and support business decision-making through efficient data querying.
+This ongoing workbook represents my progression into **relational database management and SQL development**.  
+Through both theoretical and applied exercises, I’m developing the ability to **design normalized databases**, **write optimized SQL queries**, and **analyze structured data** effectively.  
+As this work continues, I’ll refine my SQL syntax, join logic, and database design capabilities to further strengthen my skills in data architecture and back-end analytics.
 
 ---
 
 ### 👤 Author
 **Saharsh Jakkula**  
-📅 *Course Date:* 22/09/2025]
+📅 *Course Date:* 08/09/2025]
 📧 *Contact:* https://www.linkedin.com/in/saharsh-j-17073432b/
