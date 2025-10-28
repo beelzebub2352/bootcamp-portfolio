@@ -24,7 +24,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 📄 **File:** `Saharsh_Jakkula_Data_Workbook_Week_1.docx`  
 📘 **Status:** ✅ Completed  
-🔗 **View README:** [Week 1 README](./Week1_Data_Workbook/README.md)
+🔗 **View README:** [Week 1 README](./Microsoft_Excel/README.md)
 
 ---
 
