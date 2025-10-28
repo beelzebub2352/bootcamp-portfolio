@@ -12,7 +12,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 ## 🗂️ Project Index
 
-### 🧮 [Week 1 – Excel Data Fundamentals](./Week1_Data_Workbook/)
+### 🧮 [Week 1 – Microsoft Excel](./Week1_Data_Workbook/)
 **Focus:** Data handling, formulas, pivot tables, and reporting using Microsoft Excel.  
 **Key Skills:**  
 - Data cleaning and duplication removal  
@@ -28,7 +28,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 ---
 
-### 📊 [Week 2 – Data Visualization with Tableau & Power BI](./Week2_Data_Visualisation/)
+### 📊 [Week 2 – Tableau & Power BI](./Week2_Data_Visualisation/)
 **Focus:** Building dashboards and data visualizations using Tableau Public and Microsoft Power BI.  
 **Key Skills:**  
 - Dashboard creation and storytelling  
@@ -60,7 +60,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 ---
 
-### ☁️ [Week 5 – Azure & Microsoft Fabric Data Fundamentals](./Week5_Azure_Fabric/)
+### ☁️ [Week 5 – Microsoft Azure & Fabric Data Fundamentals](./Week5_Azure_Fabric/)
 **Focus:** Cloud-based data storage, processing, and analytics using Microsoft Azure and Fabric.  
 **Key Skills:**  
 - Cloud concepts (IaaS, PaaS, SaaS; Public, Private, Hybrid)  
