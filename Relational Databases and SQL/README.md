@@ -5,7 +5,7 @@ This workbook showcases my progress and applied learning during the Data Technic
 
 ![](SQL1.png)
 
-# 📘 Data Technician Workbook – Week 3 (WIP)
+# 📘 Data Technician Workbook - Week 3 (WIP)
 
 ### 🎯 Purpose of the Document
 This workbook is a **Work In Progress (WIP)** created as part of my **Data Technician training program – Week 3**, focusing on **relational databases, SQL fundamentals, and data modeling**.  
