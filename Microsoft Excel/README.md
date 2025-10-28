@@ -8,7 +8,7 @@ This workbook showcases my progress and applied learning during the Data Technic
 
 ---
 
-# 📘 Data Technician Workbook – Week 1
+# 📘 Data Technician Workbook - Week 1
 
 ### 🎯 Purpose of the Document
 This workbook was developed as part of my **Data Technician training program** to demonstrate practical data handling, analysis, and visualization skills.  
