@@ -43,12 +43,12 @@ The project emphasizes best practices in **data integrity, visualization, and au
 ---
 
 ### 📂 File Overview
-- `Saharsh_Jakkula_Data_Workbook_Week_1.docx` – Complete workbook containing all exercises, datasets, and applied tasks.
+- `Saharsh_Jakkula_Data_Workbook_Week_1.docx` - Complete workbook containing all exercises, datasets, and applied tasks.
 
 ---
 
 ### 🧾 Summary
-This project demonstrates my foundational understanding of **data analysis**, **Excel-based automation**, and **data-driven storytelling** — essential skills for any data professional.
+This project demonstrates my foundational understanding of **data analysis**, **Excel-based automation**, and **data-driven storytelling** - essential skills for any data professional.
 
 ---
 
