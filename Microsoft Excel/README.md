@@ -18,27 +18,27 @@ The project emphasizes best practices in **data integrity, visualization, and au
 ---
 
 ## 🧠 Key Skills
-- **Data Analysis & Interpretation** – Translating raw data into actionable insights.  
-- **Data Quality Management** – Ensuring accuracy, consistency, and security in datasets.  
-- **Problem Solving** – Using analytical thinking to uncover trends and support decisions.  
-- **Data Visualization** – Presenting complex data clearly through visual tools and dashboards.  
-- **Process Optimization** – Automating repetitive workflows for improved efficiency.  
-- **Reporting & Communication** – Delivering clear, data-driven insights for technical and non-technical audiences.
+- **Data Analysis & Interpretation** - Translating raw data into actionable insights.  
+- **Data Quality Management** - Ensuring accuracy, consistency, and security in datasets.  
+- **Problem Solving** - Using analytical thinking to uncover trends and support decisions.  
+- **Data Visualization** - Presenting complex data clearly through visual tools and dashboards.  
+- **Process Optimization** - Automating repetitive workflows for improved efficiency.  
+- **Reporting & Communication** - Delivering clear, data-driven insights for technical and non-technical audiences.
 
 ---
 
 ## 💻 Technical Skills
-- **Data Cleaning** – Removing duplicates, correcting formats, and standardizing datasets.  
-- **Formulas & Functions** – Skilled in `SUM`, `AVERAGE`, `IF`, `SWITCH`, `VLOOKUP`, and `XLOOKUP`.  
-- **Cell Referencing** – Using absolute and relative references for accurate calculations.  
-- **Data Ranges & Tables** – Creating structured data tables for efficient analysis.  
-- **Pivot Tables** – Summarizing and analyzing large datasets for insights.  
-- **Visualization Tools** – Building charts, graphs, and dashboards to communicate findings.  
-- **Data Validation & Protection** – Implementing controls for data accuracy and integrity.  
-- **Conditional Formatting** – Highlighting patterns, trends, and outliers.  
-- **Filters, Sorting & Slicers** – Enhancing interactivity and data exploration.  
-- **Forecasting & What-If Analysis** – Modeling scenarios and predicting outcomes.  
-- **Macros & Task Automation** – Streamlining workflows through Excel macros and automation techniques.
+- **Data Cleaning** - Removing duplicates, correcting formats, and standardizing datasets.  
+- **Formulas & Functions** - Skilled in `SUM`, `AVERAGE`, `IF`, `SWITCH`, `VLOOKUP`, and `XLOOKUP`.  
+- **Cell Referencing** - Using absolute and relative references for accurate calculations.  
+- **Data Ranges & Tables** - Creating structured data tables for efficient analysis.  
+- **Pivot Tables** - Summarizing and analyzing large datasets for insights.  
+- **Visualization Tools** - Building charts, graphs, and dashboards to communicate findings.  
+- **Data Validation & Protection** - Implementing controls for data accuracy and integrity.  
+- **Conditional Formatting** - Highlighting patterns, trends, and outliers.  
+- **Filters, Sorting & Slicers** - Enhancing interactivity and data exploration.  
+- **Forecasting & What-If Analysis** - Modeling scenarios and predicting outcomes.  
+- **Macros & Task Automation** - Streamlining workflows through Excel macros and automation techniques.
 
 ---
 
