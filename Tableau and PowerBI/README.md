@@ -5,7 +5,7 @@ This workbook showcases my progress and applied learning during the Data Technic
 
 ![](Tableau1.png)
 
-# 📘 Data Technician Workbook – Week 2 (WIP)
+# 📘 Data Technician Workbook - Week 2 (WIP)
 
 ### 🎯 Purpose of the Document
 This workbook is a **Work In Progress (WIP)** created as part of my *Data Technician training program – Week 2*, focused on **data visualization and dashboard development** using **Tableau** and **Microsoft Power BI**.  
@@ -46,7 +46,7 @@ This workbook builds on my Week 1 Excel foundations by exploring **data analytic
 
 ### 🧾 Summary
 This ongoing project highlights my transition from **data manipulation in Excel** to **data visualization in Tableau and Power BI**.  
-It represents a key stage in developing my skills in **business intelligence**, **interactive reporting**, and **data storytelling** — essential for presenting analytical insights clearly and impactfully.
+It represents a key stage in developing my skills in **business intelligence**, **interactive reporting**, and **data storytelling** - essential for presenting analytical insights clearly and impactfully.
 
 ---
 
