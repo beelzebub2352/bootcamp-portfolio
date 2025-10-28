@@ -24,7 +24,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 📄 **File:** `Saharsh_Jakkula_Data_Workbook_Week_1.docx`  
 📘 **Status:** ✅ Completed  
-🔗 **View README:** [Week 1 README](./Microsoft Excel/README.md)
+🔗 **View README:** [Week 1 README](./Microsoft%20Excel/README.md)
 
 ---
 
@@ -40,7 +40,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 📄 **File:** `Saharsh_Jakkula_Data_Workbook_Week_2.docx`  
 📘 **Status:** 🧩 Work In Progress  
-🔗 **View README:** [Week 2 README](./Week2_Data_Visualisation/README.md)
+🔗 **View README:** [Week 2 README](./Tableau%20and%20PowerBI/README.md)
 
 ---
 
@@ -56,7 +56,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 📄 **File:** `Data_Technician_Workbook_Week_3.docx`  
 📘 **Status:** 🧩 Work In Progress  
-🔗 **View README:** [Week 3 README](./Week3_SQL_Databases/README.md)
+🔗 **View README:** [Week 3 README](./Relational%20Databases%20and%20SQL/README.md)
 
 ---
 
@@ -73,7 +73,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 📄 **File:** `Saharsh_Data_Technician_Workbook_Week_5.docx`  
 📘 **Status:** 🧩 Work In Progress  
-🔗 **View README:** [Week 5 README](./Week5_Azure_Fabric/README.md)
+🔗 **View README:** [Week 5 README](./Microsoft%20Azure%20Data%20Fundamentals/README.md)
 
 ---
 
