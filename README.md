@@ -1,11 +1,11 @@
 # Bootcamp Portfolio
 Level 3 Data Technician - Just IT
 
-# 📊 Saharsh Jakkula – Data Technician Bootcamp Portfolio
+# 📊 Saharsh Jakkula - Data Technician Bootcamp Portfolio
 
 Welcome to my **Data Technician Portfolio**, a collection of work completed as part of my professional training in **data analytics, business intelligence, and cloud data fundamentals**.  
 
-Each week’s project showcases a different stage of my journey — from mastering Excel-based analysis to building cloud-ready data solutions with **Microsoft Azure** and **Microsoft Fabric**.  
+Each week’s project showcases a different stage of my journey - from mastering Excel-based analysis to building cloud-ready data solutions with **Microsoft Azure**.  
 This portfolio highlights my ability to handle, visualize, and manage data across modern platforms used in real-world analytics environments.
 
 ---
@@ -84,9 +84,9 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 | **Data Analysis** | Microsoft Excel (Advanced Formulas, Pivot Tables) |
 | **Visualization** | Tableau Public · Power BI · Power Query |
 | **Databases** | MySQL · Microsoft Access · SQL Workbench |
-| **Cloud & Analytics** | Microsoft Azure · Microsoft Fabric · Synapse Analytics · Azure Data Factory |
-| **Automation & Productivity** | Macros · ETL Pipelines · Data Validation |
-| **Compliance & Security** | GDPR · Data Protection Act 2018 · Role-Based Access Control (RBAC) |
+| **Cloud & Analytics** | Microsoft Azure · Microsoft Fabric · Azure Data Factory |
+| **Automation & Productivity** | Macros · Data Validation |
+| **Compliance & Security** | GDPR · Data Protection Act 2018 |
 
 ---
 
@@ -94,7 +94,7 @@ This portfolio highlights my ability to handle, visualize, and manage data acros
 
 | Stage | Focus Area | Description |
 |--------|-------------|-------------|
-| **Week 1** | Excel Fundamentals | Core spreadsheet analytics — functions, references, and pivot analysis. |
+| **Week 1** | Excel Fundamentals | Core spreadsheet analytics - functions, references, and pivot analysis. |
 | **Week 2** | Visualization & BI | Data storytelling using Tableau and Power BI dashboards. |
 | **Week 3** | Databases & SQL | Relational data modeling and querying for structured datasets. |
-| **Week 5** | Cloud & Fabric | End-to-end data pipelines, cloud storage,
+| **Week 5** | Azure Cloud | Cloud storage. |
