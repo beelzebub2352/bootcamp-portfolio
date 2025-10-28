@@ -15,32 +15,32 @@ This workbook builds on my Week 1 Excel foundations by exploring **data analytic
 ---
 
 ## 🧠 Key Skills
-- **Data Visualization & Storytelling** – Designing interactive dashboards that communicate insights effectively.  
-- **Analytical Thinking** – Identifying trends and patterns in datasets to support decision-making.  
-- **Business Intelligence (BI) Reporting** – Creating visual reports to aid strategic understanding.  
-- **Data Preparation** – Cleaning, transforming, and blending data from multiple sources for visualization.  
-- **Dashboard Design Principles** – Building user-friendly and visually consistent dashboards.  
-- **Comparative Analysis** – Evaluating Tableau and Power BI functionality and performance.  
-- **Collaboration & Feedback** – Sharing dashboards and responding to class feedback constructively.  
+- **Data Visualization & Storytelling** - Designing interactive dashboards that communicate insights effectively.  
+- **Analytical Thinking** - Identifying trends and patterns in datasets to support decision-making.  
+- **Business Intelligence (BI) Reporting** - Creating visual reports to aid strategic understanding.  
+- **Data Preparation** - Cleaning, transforming, and blending data from multiple sources for visualization.  
+- **Dashboard Design Principles** - Building user-friendly and visually consistent dashboards.  
+- **Comparative Analysis** - Evaluating Tableau and Power BI functionality and performance.  
+- **Collaboration & Feedback** - Sharing dashboards and responding to class feedback constructively.  
 
 ---
 
 ## 💻 Technical Skills
-- **Tableau Public & Tableau Desktop** – Data visualization, dashboard creation, and geographic mapping.  
-- **Power BI Desktop** – Data importation, transformation, report design, and dashboard publishing.  
-- **Data Modeling** – Structuring datasets for accurate relationships and visual representation.  
-- **Calculated Fields & Measures** – Applying custom logic for KPIs and advanced metrics.  
-- **Data Connections** – Integrating CSV, Excel, and API-based datasets into BI tools.  
-- **Interactive Visuals** – Implementing filters, slicers, and tooltips for better usability.  
-- **Geo-Visualization** – Mapping regional data insights with location-based metrics.  
-- **Trend & Comparative Analysis** – Tracking performance indicators across time and categories.  
-- **Formatting & Design** – Enhancing readability through consistent color palettes and layout structure.  
-- **Publishing & Sharing** – Exporting and sharing dashboards via Tableau Public and Power BI Service.  
+- **Tableau Public & Tableau Desktop** - Data visualization, dashboard creation, and geographic mapping.  
+- **Power BI Desktop** - Data importation, transformation, report design, and dashboard publishing.  
+- **Data Modeling** - Structuring datasets for accurate relationships and visual representation.  
+- **Calculated Fields & Measures** - Applying custom logic for KPIs and advanced metrics.  
+- **Data Connections** - Integrating CSV, Excel, and API-based datasets into BI tools.  
+- **Interactive Visuals** - Implementing filters, slicers, and tooltips for better usability.  
+- **Geo-Visualization** - Mapping regional data insights with location-based metrics.  
+- **Trend & Comparative Analysis** - Tracking performance indicators across time and categories.  
+- **Formatting & Design** - Enhancing readability through consistent color palettes and layout structure.  
+- **Publishing & Sharing** - Exporting and sharing dashboards via Tableau Public and Power BI Service.  
 
 ---
 
 ### 📂 File Overview
-- `Saharsh_Jakkula_Data_Workbook_Week_2.docx` – **(Work In Progress)** Workbook containing Tableau and Power BI visualization exercises, labs, and reflections.
+- `Saharsh_Jakkula_Data_Workbook_Week_2.docx` - **(Work In Progress)** Workbook containing Tableau and Power BI visualization exercises, labs, and reflections.
 
 ---
 
