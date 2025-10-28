@@ -8,7 +8,7 @@ This workbook showcases my progress and applied learning during the Data Technic
 # 📘 Data Technician Workbook - Week 3 (WIP)
 
 ### 🎯 Purpose of the Document
-This workbook is a **Work In Progress (WIP)** created as part of my **Data Technician training program – Week 3**, focusing on **relational databases, SQL fundamentals, and data modeling**.  
+This workbook is a **Work In Progress (WIP)** created as part of my **Data Technician training program - Week 3**, focusing on **relational databases, SQL fundamentals, and data modeling**.  
 It demonstrates my ongoing development in designing and managing databases using **MySQL** and **Microsoft Access**, while applying real-world business scenarios to structure and query relational data effectively.  
 This week’s work expands on earlier data analysis skills by introducing the principles of **database architecture, normalization, and query optimization**.
 
