@@ -9,7 +9,7 @@ This workbook showcases my progress and applied learning during the Data Technic
 ---
 
 ### 🎯 Purpose of the Document
-This workbook is a **Work In Progress (WIP)** completed as part of my **Data Technician training program – Week 5**, focusing on **Microsoft Azure Data Fundamentals (DP-900)** and **Microsoft Fabric**.  
+This workbook is a **Work In Progress (WIP)** completed as part of my **Data Technician training program - Week 5**, focusing on **Microsoft Azure Data Fundamentals (DP-900)** and **Microsoft Fabric**.  
 It explores how cloud platforms like Azure and Fabric enable modern data storage, transformation, and analytics at scale.  
 The workbook combines theoretical knowledge, practical lab exercises, and a real-world business case (“Paws & Whiskers”) to develop a strong understanding of **cloud-based data ecosystems, compliance, and business intelligence solutions**.
 
