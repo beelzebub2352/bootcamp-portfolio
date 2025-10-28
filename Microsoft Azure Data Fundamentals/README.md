@@ -68,7 +68,7 @@ The workbook combines theoretical knowledge, practical lab exercises, and a real
 ---
 
 ### 📂 File Overview
-- `Saharsh_Data_Technician_Workbook_Week_5.docx` – **(Work In Progress)** workbook containing Azure and Fabric labs, theoretical research, and a case study on designing a cloud-based data solution for a retail business.
+- `Saharsh_Data_Technician_Workbook_Week_5.docx` - **(Work In Progress)** workbook containing Azure and Fabric labs, theoretical research, and a case study on designing a cloud-based data solution for a retail business.
 
 ---
 
