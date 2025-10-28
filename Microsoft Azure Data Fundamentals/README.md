@@ -16,38 +16,38 @@ The workbook combines theoretical knowledge, practical lab exercises, and a real
 ---
 
 ## 🧠 Key Skills
-- **Cloud Computing Foundations** – Understanding cloud models (IaaS, PaaS, SaaS) and deployment types (Public, Private, Hybrid).  
-- **Data Strategy & Architecture** – Designing and implementing scalable, secure, and efficient data solutions in Azure and Microsoft Fabric.  
-- **Modern Data Analytics** – Integrating structured, semi-structured, and unstructured data across Azure and Fabric environments.  
-- **Compliance & Data Governance** – Applying UK and EU data laws such as GDPR and the Data Protection Act 2018 within cloud infrastructures.  
-- **Data Integration & Automation** – Streamlining data movement and transformation using **Azure Data Factory** and **Fabric Data Pipelines**.  
-- **Collaborative Problem Solving** – Working in teams to complete Azure labs and group activities, applying theoretical knowledge to practical tasks.  
-- **Business Solution Design** – Translating client needs into technical recommendations, as demonstrated in the **“Paws & Whiskers” cloud transformation scenario**.
+- **Cloud Computing Foundations** - Understanding cloud models (IaaS, PaaS, SaaS) and deployment types (Public, Private, Hybrid).  
+- **Data Strategy & Architecture** - Designing and implementing scalable, secure, and efficient data solutions in Azure and Microsoft Fabric.  
+- **Modern Data Analytics** - Integrating structured, semi-structured, and unstructured data across Azure and Fabric environments.  
+- **Compliance & Data Governance** - Applying UK and EU data laws such as GDPR and the Data Protection Act 2018 within cloud infrastructures.  
+- **Data Integration & Automation** - Streamlining data movement and transformation using **Azure Data Factory** and **Fabric Data Pipelines**.  
+- **Collaborative Problem Solving** - Working in teams to complete Azure labs and group activities, applying theoretical knowledge to practical tasks.  
+- **Business Solution Design** - Translating client needs into technical recommendations, as demonstrated in the **“Paws & Whiskers” cloud transformation scenario**.
 
 ---
 
 ## 💻 Technical Skills
 - **Cloud Computing Concepts**
-  - *IaaS* – Virtualized infrastructure for hosting applications and services.  
-  - *PaaS* – Managed environments for database and analytics solutions.  
-  - *SaaS* – Cloud-based applications like Microsoft 365 and Power BI.  
+  - *IaaS* - Virtualized infrastructure for hosting applications and services.  
+  - *PaaS* - Managed environments for database and analytics solutions.  
+  - *SaaS* - Cloud-based applications like Microsoft 365 and Power BI.  
 
 - **Microsoft Azure Services**
-  - **Azure SQL Database** – Managed relational database service.  
-  - **Azure Cosmos DB** – NoSQL database for non-relational data.  
-  - **Azure Synapse Analytics** – Scalable analytics and data warehousing.  
-  - **Azure Data Factory** – ETL and data integration pipelines.  
-  - **Azure Blob Storage** – Storage for large, unstructured data files.  
-  - **Azure Machine Learning** – Predictive modeling and AI integration.  
-  - **Azure Backup & Site Recovery** – Business continuity and disaster recovery solutions.  
+  - **Azure SQL Database** - Managed relational database service.  
+  - **Azure Cosmos DB** - NoSQL database for non-relational data.  
+  - **Azure Synapse Analytics** - Scalable analytics and data warehousing.  
+  - **Azure Data Factory** - ETL and data integration pipelines.  
+  - **Azure Blob Storage** - Storage for large, unstructured data files.  
+  - **Azure Machine Learning** - Predictive modeling and AI integration.  
+  - **Azure Backup & Site Recovery** - Business continuity and disaster recovery solutions.  
 
 - **Microsoft Fabric Capabilities**
-  - **OneLake** – Unified data lake for all Fabric workloads.  
-  - **Data Factory (Fabric)** – Low-code/no-code data pipeline design for ingestion and transformation.  
-  - **Synapse (Fabric)** – Integrated analytics engine for querying and reporting.  
-  - **Power BI Integration** – Real-time dashboards for unified visualization and reporting.  
-  - **Data Activator** – Event-driven automation for data alerts and triggers.  
-  - **Fabric Capacity** – Understanding resource management and scalability within Fabric environments.  
+  - **OneLake** - Unified data lake for all Fabric workloads.  
+  - **Data Factory (Fabric)** - Low-code/no-code data pipeline design for ingestion and transformation.  
+  - **Synapse (Fabric)** - Integrated analytics engine for querying and reporting.  
+  - **Power BI Integration** - Real-time dashboards for unified visualization and reporting.  
+  - **Data Activator** - Event-driven automation for data alerts and triggers.  
+  - **Fabric Capacity** - Understanding resource management and scalability within Fabric environments.  
 
 - **Azure & Fabric Labs Completed (WIP)**
   - **Lab 3: Explore Relational Data in Azure**  
